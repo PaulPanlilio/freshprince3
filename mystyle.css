@@ -1,0 +1,28 @@
+h1  {
+	color: #FFFFFF;
+	position: center;
+}
+
+body {
+	margin: 0 auto;
+	padding: 0;
+	padding-top: 20px;
+	text-align: center;
+	color: white;
+	width: 1300px;
+	border: 0px;
+	background-position: absolute;
+	background-color: #191947;	
+}
+
+p  {
+	position: center;
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	margin: 0;
+	padding: 0;
+}
+
+a:hover {
+	color: white;
+}
